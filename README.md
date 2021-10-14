@@ -10,24 +10,30 @@ Mudanças Climáticas (revisar com a equipe toda)
 Plataforma para abordar a temática de mudanças climáticas. (Revisar com a equipe toda).
 
 ## Status do Projeto
+
 Em desenvolvimento
 
 ## Índice/Sumário
+
 [Adicionar]
 
 ## Requisitos Funcionais 
+
 [Adicionar]
 
 ## Tecnologias Usadas
+
 [Adicionar]
 
 ## Contribuição
-[Adicionar]
+
+- Fernanda Nunes Oliveira Santos
+[Adicionar outros se for o caso]
 
 ## Autores
+
 - Edson Eduardo de Deus Assis
 - Erick Max Gonçalves de Almeida
-- Fernanda Nunes Oliveira Santos
 - João Vitor Alves Lacerda
 - Lívia Maria da Silva Moura
 - Pablo Henrique de Almeida Nascimento
