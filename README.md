@@ -4,6 +4,10 @@ Aplicação para unidades escolares
 ## Proposta
 Esse trabalho propõe ensinar crianças a respeito da temática ambiental por meio da disciplina escolar "Educação Ambiental". Fazê-los entender que grande parte dos problemas ambientais estão por trás das consequências humanas.
 
+## Status
+
+![Status: Em andamento](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
+
 ## Índice/Sumário
 
 _Adicionar_
@@ -15,8 +19,6 @@ Do ponto de vista educacional, a educação ambiental deve existir, penetrar em 
 
 Do ponto de vista educacional, a educação ambiental deve existir, penetrar em todas as relações e atividades da escola, desenvolver-se de forma interdisciplinar, refletir as questões atuais e pensar no mundo que queremos, para então colocar em prática o pensamento ecológico global. A educação ambiental não deve se tornar uma disciplina nova no currículo escolar, mas sim uma aliada do currículo, buscando um conhecimento integral que supere a fragmentação na perspectiva do conhecimento.
 
-## Status do Projeto
-[Em andamento]
 
 ## Requisitos Funcionais 
 
