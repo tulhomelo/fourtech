@@ -1,19 +1,22 @@
-# Fourtech [TÍTULO AQUI]
+# Educação Ambiental
+Aplicação para unidades escolares
 
-[DESCRIÇÃO AQUI] Repositório da Fourtech para projeto sobre mudanças climáticas
-
-![Banner](https://github.com/tulhomelo/fourtech/blob/main/750x553_40f64960cd3e26da876f705219fa27f4.jpg?raw=true)
-
-
-Em desenvolvimento
+## Proposta
+Esse trabalho propõe ensinar crianças a respeito da temática ambiental por meio da disciplina escolar "Educação Ambiental". Fazê-los entender que grande parte dos problemas ambientais estão por trás das consequências humanas.
 
 ## Índice/Sumário
 
-<img src="./images/Timeline_Outline.png">
-[Adicionar]
+_Adicionar_
+
+## Descrição
+Nos últimos dez anos, a população mundial aumentou em 1 bilhão. Hoje, estima-se que existam 7,8 bilhões de pessoas no planeta. O aumento da população mundial, a crise ambiental em curso e a escassez de recursos naturais conscientizaram as pessoas sobre a importância de proteger o meio ambiente e desenvolver hábitos mais saudáveis. Nesse contexto, a educação ambiental nas escolas tem se tornado cada vez mais importante, tornando-se um espaço de educação, colaboração e construção de valor.
+
+Do ponto de vista educacional, a educação ambiental deve existir, penetrar em todas as relações e atividades da escola, desenvolver-se de forma interdisciplinar, refletir as questões atuais e pensar no mundo que queremos, para então colocar em prática o pensamento ecológico global. A educação ambiental não deve se tornar uma disciplina nova no currículo escolar, mas sim uma aliada do currículo, buscando um conhecimento integral que supere a fragmentação na perspectiva do conhecimento.
+
+Do ponto de vista educacional, a educação ambiental deve existir, penetrar em todas as relações e atividades da escola, desenvolver-se de forma interdisciplinar, refletir as questões atuais e pensar no mundo que queremos, para então colocar em prática o pensamento ecológico global. A educação ambiental não deve se tornar uma disciplina nova no currículo escolar, mas sim uma aliada do currículo, buscando um conhecimento integral que supere a fragmentação na perspectiva do conhecimento.
 
 ## Status do Projeto
-<img src="https://user-images.githubusercontent.com/5217328/137244727-aeafcdbf-bd68-49b7-872f-896f2c048362.png" height="200px">
+[Em andamento]
 
 ## Requisitos Funcionais 
 
@@ -26,13 +29,14 @@ Em desenvolvimento
 ## Contribuição
 
 - Fernanda Nunes Oliveira Santos
-[Adicionar outros se for o caso]
+- Prof. Diego Augusto de Faria Barros
 
 ## Autores
 
 - Edson Eduardo de Deus Assis
 - Erick Max Gonçalves de Almeida
 - João Vitor Alves Lacerda
+- Leonardo de Souza Rodrigues
 - Lívia Maria da Silva Moura
 - Pablo Henrique de Almeida Nascimento
 - Tulho Henrique de Oliveira Melo
@@ -41,4 +45,5 @@ Em desenvolvimento
 [Definir]
 
 ## Agradecimentos
-[Definir]
+- Prof. Diego Augusto de Faria Barros
+- UNA Cristiano Machado
