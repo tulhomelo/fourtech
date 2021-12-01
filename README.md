@@ -24,8 +24,8 @@ Do ponto de vista educacional, a educação ambiental deve existir, penetrar em 
 
 - (1.0) Os usuários devem ser capazes de se cadastrar ao sistema informando Nome Completo, Idade, Ano escolar, e-mail e senha de cadastro.
 - (1.1) Os usuários devem ser capazes de criar um perfil personalizado na plataforma.
-- (1.2) O Sistema deve ser capaz de organizar os conteúdos disponíveis, em tópicos estruturados.
-
+- (1.2) O Sistema deve ser capaz de organizar os conteúdos disponíveis em tópicos estruturados.
+- (1.3) O sistema deve permitir que usuarios se inscrevam em trilhas de aprendizagem.
 ## Tecnologias Usadas
 
 [Adicionar]
